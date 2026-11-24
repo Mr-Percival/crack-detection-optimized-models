@@ -1,0 +1,4 @@
+método,evaluaciones,mejor_val_acc,media_val_acc,evals_hasta_99%,tiempo_min,mejor_configuración
+Random Search,15,0.9459999799728394,0.8953333338101704,1,2.679299453894297,"{'n_capas': 1, 'units_0': 512, 'dropout': 0.2, 'l2': 0.0001, 'batchnorm': True, 'learning_rate': 0.004255555813913329, 'optimizador': 'sgd_momentum'}"
+Bayesiana,15,0.9419999718666077,0.9052000006039937,2,3.7368326703707377,"{'n_capas': 1, 'units_0': 256, 'dropout': 0.0, 'l2': 0.001, 'batchnorm': True, 'learning_rate': 0.0009610164208855672, 'optimizador': 'sgd_momentum'}"
+Algoritmo Genético,15,0.9480000138282776,0.9235999981562296,4,2.6312812010447186,"{'n_capas': 2, 'units_0': 256, 'units_1': 64, 'dropout': 0.2, 'l2': 0.0001, 'batchnorm': True, 'learning_rate': 0.002335963502626158, 'optimizador': 'sgd_momentum'}"

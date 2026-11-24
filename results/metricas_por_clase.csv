@@ -1,0 +1,21 @@
+representación,modelo,clase,precisión,recall,f1,soporte
+píxeles 64×64 gris,Regresión logística,Sin grieta,0.8251273344651953,0.972,0.8925619834710744,500
+píxeles 64×64 gris,Regresión logística,Con grieta,0.9659367396593674,0.794,0.8715697036223929,500
+píxeles 64×64 gris,RF · GridSearchCV,Sin grieta,0.9662698412698413,0.974,0.9701195219123506,500
+píxeles 64×64 gris,RF · GridSearchCV,Con grieta,0.9737903225806451,0.966,0.9698795180722891,500
+píxeles 64×64 gris,RF · RandomizedSearchCV,Sin grieta,0.9662698412698413,0.974,0.9701195219123506,500
+píxeles 64×64 gris,RF · RandomizedSearchCV,Con grieta,0.9737903225806451,0.966,0.9698795180722891,500
+píxeles 64×64 gris,RF · BayesSearchCV,Sin grieta,0.9610894941634242,0.988,0.9743589743589743,500
+píxeles 64×64 gris,RF · BayesSearchCV,Con grieta,0.9876543209876543,0.96,0.973630831643002,500
+píxeles 64×64 gris,RF · Algoritmo Genético,Sin grieta,0.95,0.988,0.9686274509803922,500
+píxeles 64×64 gris,RF · Algoritmo Genético,Con grieta,0.9875,0.948,0.9673469387755103,500
+píxeles 64×64 gris,MLP base,Sin grieta,0.850828729281768,0.924,0.8859060402684564,500
+píxeles 64×64 gris,MLP base,Con grieta,0.9168490153172867,0.838,0.8756530825496343,500
+píxeles 64×64 gris,MLP · Random Search,Sin grieta,0.8943533697632058,0.982,0.9361296472831268,500
+píxeles 64×64 gris,MLP · Random Search,Con grieta,0.9800443458980045,0.884,0.9295478443743428,500
+píxeles 64×64 gris,MLP · Bayesiana,Sin grieta,0.9254302103250478,0.968,0.946236559139785,500
+píxeles 64×64 gris,MLP · Bayesiana,Con grieta,0.9664570230607966,0.922,0.9437052200614124,500
+píxeles 64×64 gris,MLP · Algoritmo Genético,Sin grieta,0.9553398058252427,0.984,0.9694581280788177,500
+píxeles 64×64 gris,MLP · Algoritmo Genético,Con grieta,0.9835051546391752,0.954,0.9685279187817258,500
+píxeles 64×64 gris,CNN desde cero,Sin grieta,0.9940357852882704,1.0,0.9970089730807578,500
+píxeles 64×64 gris,CNN desde cero,Con grieta,1.0,0.994,0.9969909729187563,500

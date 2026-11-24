@@ -1,0 +1,5 @@
+método,evaluaciones,mejor_cv_acc,tiempo_s,mejores_hiperparámetros,test_acc
+GridSearchCV,32,0.9680009844927385,236.51375317573547,"{'criterion': 'gini', 'max_depth': 20, 'n_estimators': 100}",0.97
+RandomizedSearchCV,15,0.9680009844927385,98.29179215431213,"{'n_estimators': 100, 'max_depth': 20, 'criterion': 'gini'}",0.97
+BayesSearchCV,15,0.9660049854952404,157.8290843963623,"{'criterion': 'entropy', 'max_depth': 20, 'n_estimators': 100}",0.974
+Algoritmo Genético,15,0.9615049832441137,126.96962070465088,"{'n_estimators': 53, 'max_depth': 16, 'criterion': 'entropy'}",0.968

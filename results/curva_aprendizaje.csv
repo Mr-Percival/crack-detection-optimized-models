@@ -1,0 +1,56 @@
+n_por_clase,modelo,semilla,test_acc
+50,Regresión logística,42,0.786
+50,Random Forest,42,0.759
+50,MLP base,0,0.775
+50,MLP base,1,0.793
+50,MLP base,2,0.776
+50,MLP · Algoritmo Genético (elegida),0,0.934
+50,MLP · Algoritmo Genético (elegida),1,0.935
+50,MLP · Algoritmo Genético (elegida),2,0.924
+50,CNN desde cero,0,0.942
+50,CNN desde cero,1,0.825
+50,CNN desde cero,2,0.803
+100,Regresión logística,42,0.84
+100,Random Forest,42,0.913
+100,MLP base,0,0.841
+100,MLP base,1,0.835
+100,MLP base,2,0.827
+100,MLP · Algoritmo Genético (elegida),0,0.954
+100,MLP · Algoritmo Genético (elegida),1,0.94
+100,MLP · Algoritmo Genético (elegida),2,0.949
+100,CNN desde cero,0,0.99
+100,CNN desde cero,1,0.991
+100,CNN desde cero,2,0.999
+250,Regresión logística,42,0.868
+250,Random Forest,42,0.952
+250,MLP base,0,0.856
+250,MLP base,1,0.861
+250,MLP base,2,0.865
+250,MLP · Algoritmo Genético (elegida),0,0.961
+250,MLP · Algoritmo Genético (elegida),1,0.94
+250,MLP · Algoritmo Genético (elegida),2,0.959
+250,CNN desde cero,0,0.991
+250,CNN desde cero,1,0.996
+250,CNN desde cero,2,0.998
+500,Regresión logística,42,0.86
+500,Random Forest,42,0.969
+500,MLP base,0,0.876
+500,MLP base,1,0.871
+500,MLP base,2,0.877
+500,MLP · Algoritmo Genético (elegida),0,0.966
+500,MLP · Algoritmo Genético (elegida),1,0.965
+500,MLP · Algoritmo Genético (elegida),2,0.959
+500,CNN desde cero,0,0.996
+500,CNN desde cero,1,0.999
+500,CNN desde cero,2,0.997
+1000,Regresión logística,42,0.883
+1000,Random Forest,42,0.97
+1000,MLP base,0,0.881
+1000,MLP base,1,0.908
+1000,MLP base,2,0.911
+1000,MLP · Algoritmo Genético (elegida),0,0.969
+1000,MLP · Algoritmo Genético (elegida),1,0.964
+1000,MLP · Algoritmo Genético (elegida),2,0.962
+1000,CNN desde cero,0,0.996
+1000,CNN desde cero,1,0.996
+1000,CNN desde cero,2,0.997
